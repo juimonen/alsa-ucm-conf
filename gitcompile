@@ -1,0 +1,11 @@
+#!/bin/bash
+
+set -e
+
+aclocal
+automake --foreign --copy --add-missing
+autoconf
+./configure || exit 1
+if [ -z "$GITCOMPILE_NO_MAKE" ]; then
+  make
+fi
