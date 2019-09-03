@@ -129,4 +129,5 @@ AC_OUTPUT(Makefile src/Makefile \
 	  src/topology/bxtrt298/Makefile \
 	  src/topology/sklrt286/Makefile \
 	  src/topology/sklrt286/broadwell/Makefile \
-	  src/topology/sklrt286/bxtrt298/Makefile)
+	  src/topology/sklrt286/bxtrt298/Makefile \
+	  src/topology/sof/Makefile)
