@@ -1,6 +1,7 @@
 SUBDIRS=\
 codecs \
 platforms \
+AAEON-UP_APL01-V1.0-UP_APL01-SOF_010100_sofaplpcm512x_030800 \
 ASUSTeKCOMPUTERINC.-T100HAN-1.0-T100HAN \
 broadwell-rt286 \
 broxton-rt298 \

@@ -66,6 +66,7 @@ AC_SUBST(TOPOLOGY_CONFIG_DIR)
 
 AC_OUTPUT(Makefile src/Makefile \
           src/ucm/Makefile \
+	  src/ucm/AAEON-UP_APL01-V1.0-UP_APL01-SOF_010100_sofaplpcm512x_030800/Makefile \
 	  src/ucm/ASUSTeKCOMPUTERINC.-T100HAN-1.0-T100HAN/Makefile \
 	  src/ucm/broadwell-rt286/Makefile \
 	  src/ucm/broxton-rt298/Makefile \
